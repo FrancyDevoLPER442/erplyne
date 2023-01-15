@@ -9,5 +9,5 @@ erplyne e un assistente vocale open source lasciato da Tools Dev
 # Funzioni Implementate
 - versione 
 
-* Diritti D'Autore 
+#  Diritti D'Autore 
 - Dev Tools
